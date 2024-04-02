@@ -91,3 +91,21 @@ To download and install Studio 3T for MongoDB, you can follow these steps:
 
    - Once connected, you can explore your MongoDB databases, collections, and documents using Studio 3T's intuitive interface.
    - You can perform various operations such as querying, editing, importing/exporting data, and more.
+
+Screenshots of the portal:
+
+1. Home Page (Donation Page)
+   ![Screenshot 2024-04-01 at 17 37 35](https://github.com/avanisah/donation-management-system/assets/48235653/4e113a5c-6d96-478c-90ae-c9d4fec60815)
+
+   
+2. Distribution Page
+   ![Screenshot 2024-04-01 at 17 38 46](https://github.com/avanisah/donation-management-system/assets/48235653/af2390fa-51e6-44ed-a058-1dfbeb1c475f)
+
+3. Inventory Report
+   ![Screenshot 2024-04-01 at 17 39 40](https://github.com/avanisah/donation-management-system/assets/48235653/2ea60f7e-b643-40b2-b513-6d73d87f888f)
+
+4. Donators Report
+   ![Screenshot 2024-04-01 at 17 40 11](https://github.com/avanisah/donation-management-system/assets/48235653/4c71faf5-2b23-4d9e-8184-1f7f2a678c55)
+
+
+
