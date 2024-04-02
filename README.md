@@ -19,7 +19,7 @@ This project is a Donation Management System that allows users to register donat
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/avanisah/donation-management-system.git](https://github.com/avanisah/donation-management-system.git)
+   git clone https://github.com/avanisah/donation-management-system.git
    ```
 
 2. Navigate to the project directory:
