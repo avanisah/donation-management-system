@@ -1,4 +1,4 @@
-To run the complete application on any machine, you can follow these detailed instructions and add them to your README file:
+To run the complete application on any machine, you can follow these detailed instructions:
 
 ---
 
